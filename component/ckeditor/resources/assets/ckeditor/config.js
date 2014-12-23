@@ -12,10 +12,6 @@
 
 CKEDITOR.editorConfig = function( config ) {
 
-    /// Define changes to default configuration here. For example:
-    // config.language = 'fr';
-    // config.uiColor = '#AADC6E';
-
     config.extraPlugins = 'codemirror,readmore,images,files';
     // wee need to remove the default image and link plugins for the custom plugin's to work properly
 
