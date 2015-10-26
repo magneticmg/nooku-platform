@@ -1,19 +1,19 @@
 {
-    "name": "nooku/nooku-platform",
+    "name": "magneticmg/nooku-library",
     "type": "nooku-platform",
     "license": "GPLv3",
     "description": "Nooku Platform is an open-source web application platform",
     "keywords": [
-        "platform",
+        "library",
         "framework",
         "nooku"
     ],
-    "homepage": "https://github.com/nooku/nooku-platform",
+    "homepage": "https://github.com/magneticmg/nooku-library",
     "authors": [
         {
-            "name": "Timble",
-            "email": "info@timble.net",
-            "homepage": "http://www.timble.net"
+            "name": "Cameron Barr",
+            "email": "me@cameronbarr.com",
+            "homepage": "http://cameronbarr.com"
         }
     ],
     "require": {
